@@ -141,7 +141,7 @@ export default function Home() {
               onClick={handleWhatsAppContact}
               className="bg-accent text-accent-foreground shadow-[0_12px_28px_rgba(212,163,115,0.22)] transition hover:bg-accent/90"
             >
-              Pesan Sekarang
+              Pesan Now
             </Button>
           </div>
         </div>
